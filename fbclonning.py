@@ -57,8 +57,8 @@ logo = """
 •◈•-----█--------------█------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m The Vile Techs
-\033[1;96mYoutube \033[1;93m: \033[1; The Vile Techs
-\033[1;96mFacebook  \033[1;93m: \033[1; The Vile Techs
+\033[1;96mYoutube \033[1;93m: \033[1;92m The Vile Techs
+\033[1;96mFacebook  \033[1;93m: \033[1;92m The Vile Techs
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/theviletechs
 \033[1;91m======================================="""
 
